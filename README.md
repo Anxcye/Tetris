@@ -1,4 +1,5 @@
 ## 项目结构
+```
 Tetris
 |---main.cpp    
 |---src   
@@ -18,6 +19,7 @@ Tetris
 |---README.md    
 |---CMakeLists.txt   
 |---tetrisRanking.dat   
+```
 
 ## 函数
 1. `rotate(int)`：对应方块形状的旋转函数，将传入的方块ID（0-27）表示的方块进行旋转，并返回旋转后的方块ID。
