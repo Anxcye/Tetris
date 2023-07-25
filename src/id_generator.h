@@ -8,7 +8,6 @@ using namespace std;
 
 class ID_generator {
 private:
-
     const pair<int, int> ptnMap[8] = {
             MP(0, 2), MP(2, 1), MP(3, 4), MP(7, 4), MP(11, 4),
             MP(15, 2), MP(17, 2), MP(19, 9)
@@ -33,6 +32,8 @@ public:
     int getNewID();
 
 };
+
+
 extern ID_generator idGenerator;
 
 

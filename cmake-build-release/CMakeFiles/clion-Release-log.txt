@@ -1,4 +1,4 @@
-C:\Users\axyyu\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.222\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=C:/Users/axyyu/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.222/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\Code\cppcode\computerProgrammingPractice\tetris -B D:\Code\cppcode\computerProgrammingPractice\tetris\cmake-build-release
+C:\Users\axyyu\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.222\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=C:/Users/axyyu/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.222/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\Project\Tetris -B D:\Project\Tetris\cmake-build-release
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@ C:\Users\axyyu\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.222\bin\
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/Code/cppcode/computerProgrammingPractice/tetris/cmake-build-release
+-- Build files have been written to: D:/Project/Tetris/cmake-build-release

@@ -43,7 +43,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "Debug"
+			"value" : "Release"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Code/cppcode/computerProgrammingPractice/tetris/cmake-build-debug"
+			"value" : "d:/Project/Tetris/cmake-build-release"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Code/cppcode/computerProgrammingPractice/tetris/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/Project/Tetris/cmake-build-release/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Code/cppcode/computerProgrammingPractice/tetris"
+			"value" : "D:/Project/Tetris"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1275,7 +1275,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Code/cppcode/computerProgrammingPractice/tetris/cmake-build-debug"
+			"value" : "D:/Project/Tetris/cmake-build-release"
 		},
 		{
 			"name" : "tetris_IS_TOP_LEVEL",
@@ -1299,7 +1299,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Code/cppcode/computerProgrammingPractice/tetris"
+			"value" : "D:/Project/Tetris"
 		}
 	],
 	"kind" : "cache",

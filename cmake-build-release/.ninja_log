@@ -1,23 +1,9 @@
 # ninja log v5
-12	1687	7118940355269314	CMakeFiles/tetris.dir/src/cursor.cpp.obj	9f9e1da3ba1ec7f1
-0	1698	7118940355312897	CMakeFiles/tetris.dir/src/common.cpp.obj	a8184006c9ff1a25
-16	1725	7118940355674375	CMakeFiles/tetris.dir/src/dmap.cpp.obj	ba85fadeade4c669
-4	1755	7118940355965725	CMakeFiles/tetris.dir/main.cpp.obj	9851acba64c752e0
-24	1827	7118940356685621	CMakeFiles/tetris.dir/src/ui.cpp.obj	9b0bcd7fe50ebe1d
-8	1850	7118940356926561	CMakeFiles/tetris.dir/src/id_generator.cpp.obj	a762ffdeeaea724b
-20	2087	7118940359294614	CMakeFiles/tetris.dir/src/ranklist.cpp.obj	7cf5f70debc0ab37
-2087	2163	7118940360026707	tetris.exe	6ac6a7ddef30aa89
 18	1263	7118947561536535	CMakeFiles/tetris.dir/src/cursor.cpp.obj	9f9e1da3ba1ec7f1
+1563	1652	7118949702362406	tetris.exe	6ac6a7ddef30aa89
 3	1271	7118947561611193	CMakeFiles/tetris.dir/src/common.cpp.obj	a8184006c9ff1a25
 10	1342	7118947562330325	CMakeFiles/tetris.dir/src/dmap.cpp.obj	ba85fadeade4c669
 7	1356	7118947562457023	CMakeFiles/tetris.dir/main.cpp.obj	9851acba64c752e0
-14	1357	7118947562477247	CMakeFiles/tetris.dir/src/id_generator.cpp.obj	a762ffdeeaea724b
 27	1383	7118947562734420	CMakeFiles/tetris.dir/src/ui.cpp.obj	9b0bcd7fe50ebe1d
-23	1716	7118947566031046	CMakeFiles/tetris.dir/src/ranklist.cpp.obj	7cf5f70debc0ab37
-1716	1810	7118947566968012	tetris.exe	6ac6a7ddef30aa89
-3	1462	7118948828002808	CMakeFiles/tetris.dir/src/ranklist.cpp.obj	7cf5f70debc0ab37
-1462	1561	7118948828948083	tetris.exe	6ac6a7ddef30aa89
-3	1508	7118949560908641	CMakeFiles/tetris.dir/src/ranklist.cpp.obj	7cf5f70debc0ab37
-1509	1589	7118949561674358	tetris.exe	6ac6a7ddef30aa89
 3	1563	7118949701511534	CMakeFiles/tetris.dir/src/ranklist.cpp.obj	7cf5f70debc0ab37
-1563	1652	7118949702362406	tetris.exe	6ac6a7ddef30aa89
+14	1357	7118947562477247	CMakeFiles/tetris.dir/src/id_generator.cpp.obj	a762ffdeeaea724b

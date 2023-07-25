@@ -1,10 +1,10 @@
 #ifndef COMMON_H
 #define COMMON_H
 
-//#pragma GCC optimize ("Ofast", 3)
-//#pragma GCC target ("sse3", "sse2", "sse")
-//#pragma GCC target ("avx", "sse4", "sse4.1", "sse4.2", "ssse3")
-//#pragma GCC target ("f16c")
+#pragma GCC optimize ("Ofast", 3)
+#pragma GCC target ("sse3", "sse2", "sse")
+#pragma GCC target ("avx", "sse4", "sse4.1", "sse4.2", "ssse3")
+#pragma GCC target ("f16c")
 
 #include <iostream>
 #include <cstdio>
