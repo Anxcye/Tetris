@@ -1,24 +1,24 @@
 ## 项目结构
 ```
 Tetris
-|---main.cpp    
-|---src   
-|    |---common.cpp   
-|    |---common.h   
-|    |---ID_generator.cpp   
-|    |---ID_generator.h   
-|    |---cursor.cpp   
-|    |---cursor.h   
-|    |---dmap.cpp   
-|    |---dmap.h   
-|    |---rankList.cpp   
-|    |---rankList.h   
-|    |---ui.cpp   
-|    |---ui.h   
-|
-|---README.md    
-|---CMakeLists.txt   
-|---tetrisRanking.dat   
+  |---main.cpp    
+  |---src   
+  |    |---common.cpp   
+  |    |---common.h   
+  |    |---ID_generator.cpp   
+  |    |---ID_generator.h   
+  |    |---cursor.cpp   
+  |    |---cursor.h   
+  |    |---dmap.cpp   
+  |    |---dmap.h   
+  |    |---rankList.cpp   
+  |    |---rankList.h   
+  |    |---ui.cpp   
+  |    |---ui.h   
+  |
+  |---README.md    
+  |---CMakeLists.txt   
+  |---tetrisRanking.dat   
 ```
 
 ## 函数
