@@ -1,9 +1,0 @@
-# ninja log v5
-18	1263	7118947561536535	CMakeFiles/tetris.dir/src/cursor.cpp.obj	9f9e1da3ba1ec7f1
-1563	1652	7118949702362406	tetris.exe	6ac6a7ddef30aa89
-3	1271	7118947561611193	CMakeFiles/tetris.dir/src/common.cpp.obj	a8184006c9ff1a25
-10	1342	7118947562330325	CMakeFiles/tetris.dir/src/dmap.cpp.obj	ba85fadeade4c669
-7	1356	7118947562457023	CMakeFiles/tetris.dir/main.cpp.obj	9851acba64c752e0
-27	1383	7118947562734420	CMakeFiles/tetris.dir/src/ui.cpp.obj	9b0bcd7fe50ebe1d
-3	1563	7118949701511534	CMakeFiles/tetris.dir/src/ranklist.cpp.obj	7cf5f70debc0ab37
-14	1357	7118947562477247	CMakeFiles/tetris.dir/src/id_generator.cpp.obj	a762ffdeeaea724b
